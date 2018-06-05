@@ -1,7 +1,7 @@
 
 # Web工程内嵌Tomcat实现jar运行
 
-自从Spring++ boot出来后，他的嵌入式Tomcat，Jetty容器，无需部署WAR包的方式，也是受很开发运维人员的喜爱，但是碰到旧的web项目进行部署，习惯了spring boot启动方式，还是感 觉到有点狗血的，所以如何将web工程改成java -jar xx.jar 方式启动，可以使用Embeded-Tomcat,内嵌入Tomcat来达到我们的目的， 下面就分享一下内嵌tomcat的方式。
+自从Spring boot出来后，他的嵌入式Tomcat，Jetty容器，无需部署WAR包的方式，也是受很开发运维人员的喜爱，但是碰到旧的web项目进行部署，习惯了spring boot启动方式，还是感 觉到有点狗血的，所以如何将web工程改成java -jar xx.jar 方式启动，可以使用Embeded-Tomcat,内嵌入Tomcat来达到我们的目的， 下面就分享一下内嵌tomcat的方式。
 
 ---
 
